@@ -94,3 +94,4 @@ const courses = {
       image: import.meta.env.BASE_URL + 'timetables/stem/year3/year3-BScCS.jpg',
     },
   ],
+}
